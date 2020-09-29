@@ -1,0 +1,40 @@
+train_cgan.ipynb:
+Script for training a cyclegan model.
+Choose imagedomains and parameters; model will be saved under "cyclegan/saved_models/<model_name>".
+Imagesamples will be saved under "cyclegan/saved_models/<model_name>/samples".
+
+translate_images.ipynb:
+Choose a pretrained model and generate images.
+
+train_fcsrn.ipynb:
+Choose imagedomain to train FCSRN with; model will be saved under "evaluation/fcsrn/saved_models/<fcsrn_model>".
+AR will be saved under "evaluation/fcsrn/saved_models/<fcsrn_model>/ar"
+
+calculate_FID.ipynb:
+Choose model and epoch, FID will be saved under "cyclegan/saved_models/<model_name>/FID.txt"
+
+------------------
+
+	Requirements:
+Jupyter Notebook, Python 3 and following modules:
+
+tensorflow
+tensorflow_addons
+numpy
+pandas
+scipy
+matplotlib
+pathlib
+time
+random
+enum
+os
+sys
+inspect
+re
+cv2
+gzip
+pickle
+imageio
+urllib
+warnings

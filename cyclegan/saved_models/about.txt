@@ -1,0 +1,17 @@
+synth2easy:
+	translates synthetic images to easy images
+	(Epoch 17)
+	
+	
+synth2diff_1step:
+	translates synth to diff directly
+	(Epoch 18)
+	
+synth2diff_2step_A:
+	translates synthetic images to easy images
+	used as first step of 2-step  method
+	(Epoch 16)
+
+synth2diff_2step_B:
+	translates generated easy images (from synth2diff_2step_A) to difficult images
+	(Epoch 40)

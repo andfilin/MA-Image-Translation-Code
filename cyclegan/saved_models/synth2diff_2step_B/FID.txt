@@ -1,0 +1,81 @@
+	FIDs for n_images = 1000
+--------------------
+Epoch 21:
+fid(gen, wmn_easy) =	254.660684
+fid(gen, wmn_difficult) =	97.541973
+--------------------
+Epoch 22:
+fid(gen, wmn_easy) =	322.625165
+fid(gen, wmn_difficult) =	87.375287
+--------------------
+Epoch 23:
+fid(gen, wmn_easy) =	315.963475
+fid(gen, wmn_difficult) =	88.796331
+--------------------
+Epoch 24:
+fid(gen, wmn_easy) =	333.334538
+fid(gen, wmn_difficult) =	80.473238
+--------------------
+Epoch 25:
+fid(gen, wmn_easy) =	360.742397
+fid(gen, wmn_difficult) =	85.978856
+--------------------
+Epoch 26:
+fid(gen, wmn_easy) =	339.457294
+fid(gen, wmn_difficult) =	95.160256
+--------------------
+Epoch 27:
+fid(gen, wmn_easy) =	382.573428
+fid(gen, wmn_difficult) =	95.743159
+--------------------
+Epoch 28:
+fid(gen, wmn_easy) =	383.645360
+fid(gen, wmn_difficult) =	93.206708
+--------------------
+Epoch 29:
+fid(gen, wmn_easy) =	354.112290
+fid(gen, wmn_difficult) =	88.980940
+--------------------
+Epoch 30:
+fid(gen, wmn_easy) =	416.645841
+fid(gen, wmn_difficult) =	109.161377
+--------------------
+Epoch 31:
+fid(gen, wmn_easy) =	356.191786
+fid(gen, wmn_difficult) =	85.669182
+--------------------
+Epoch 32:
+fid(gen, wmn_easy) =	281.899545
+fid(gen, wmn_difficult) =	79.128432
+--------------------
+Epoch 33:
+fid(gen, wmn_easy) =	314.694941
+fid(gen, wmn_difficult) =	74.533016
+--------------------
+Epoch 34:
+fid(gen, wmn_easy) =	326.945394
+fid(gen, wmn_difficult) =	79.584712
+--------------------
+Epoch 35:
+fid(gen, wmn_easy) =	316.401658
+fid(gen, wmn_difficult) =	76.337447
+--------------------
+Epoch 36:
+fid(gen, wmn_easy) =	351.923431
+fid(gen, wmn_difficult) =	86.533558
+--------------------
+Epoch 37:
+fid(gen, wmn_easy) =	325.114129
+fid(gen, wmn_difficult) =	80.025872
+--------------------
+Epoch 38:
+fid(gen, wmn_easy) =	367.929783
+fid(gen, wmn_difficult) =	94.476670
+--------------------
+Epoch 39:
+fid(gen, wmn_easy) =	338.457995
+fid(gen, wmn_difficult) =	91.097926
+--------------------
+Epoch 40:
+fid(gen, wmn_easy) =	331.619011
+fid(gen, wmn_difficult) =	73.825224

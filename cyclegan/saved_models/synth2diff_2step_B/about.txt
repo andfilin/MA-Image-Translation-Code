@@ -1,0 +1,4 @@
+modell trainiert auf reale einfache Bilder,
+weitertrainiert auf generierte einfache Bilder von Modell:
+generator_model = Path("D:/m2/savedmodels/goals/q6_imagesize/512_128_smallModels")
+generator_epoch = 16

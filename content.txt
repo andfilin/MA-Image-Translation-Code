@@ -1,0 +1,28 @@
+Folders:
+
+	cyclegan:
+		contains cyclegan implementation and pretrained models
+	
+	dataset:
+		contains the SCUT-WMN Dataset.
+		Source: https://github.com/jiarenyf/Water-Meter-Number-DataSet
+		
+	evaluation:
+		contains the implementation of FCSRN (FULLY CONVOLUTIONAL SEQUENCE RECOGNITION NETWORK)
+		see: https://ieeexplore.ieee.org/document/8606091
+		
+	FID:
+		contains implementation of Frechet Inception Distance
+		source: https://github.com/bioinf-jku/TTUR
+		
+	imageGenerators:
+		contains generators of synthetic images;
+		uses images from the Char74k dataset.
+		source: http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/
+		
+	scripts:
+		contains various scripts of the pipeline:
+			train_cgan.ipynb (for training cyclegan)
+			translate_images.ipynb (for using trained cyclegan to translate synthetic images)
+			train_fcsrn.ipynb (for training FCSRN and calculating AR)
+			calculate_FID.ipynb (for calculating FID)
